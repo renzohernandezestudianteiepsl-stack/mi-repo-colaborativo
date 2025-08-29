@@ -2,4 +2,4 @@ Este es mi archivo inicial
 
 #Editar archivo en GitHub1
 
-cambio realizado en GitHub main
+cambio realizado en GitHub (rama main)
